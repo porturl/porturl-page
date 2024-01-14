@@ -1,0 +1,4 @@
+baseURL = 'https://porturl.github.io/'
+languageCode = 'en-us'
+title = 'porturl'
+theme = 'beautifulhugo'
